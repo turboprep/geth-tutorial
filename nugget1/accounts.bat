@@ -1,1 +1,1 @@
-geth --exec "eth.accounts[0]" attach > output.txt
+geth --datadir data --networkid 123 --nodiscover --maxpeers 0 account list > output.txt

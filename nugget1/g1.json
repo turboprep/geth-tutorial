@@ -7,6 +7,6 @@
     "coinbase": "0x0000000000000000000000000000000000000000",
     "timestamp": "0x00",
     "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "extraData": "Custem Ethereum Genesis Block",
+    "extraData": "Nugget Genesis",
     "gasLimit": "0xffffffff"
 }
