@@ -1,0 +1,1 @@
+geth --exec "eth.accounts[0]" attach > output.txt

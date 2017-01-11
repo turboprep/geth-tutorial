@@ -1,0 +1,1 @@
+geth --mine --datadir eth-data --networkid 123 --nodiscover --maxpeers 0 --verbosity 6 console
