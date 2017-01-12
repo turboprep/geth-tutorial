@@ -4,7 +4,7 @@
     "difficulty": "0x4000",
     "alloc": {
 	"ADD YOUR COINBASE HERE": {
-        "balance": "10000000000000000000"
+        "balance": "00000000000000000000"
    		}
    	},
     "coinbase": "0x0000000000000000000000000000000000000000",
