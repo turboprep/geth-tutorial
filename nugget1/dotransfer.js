@@ -1,1 +1,0 @@
-nugget.sendNugget.sendTransaction(eth.accounts[1], 1000, {from: eth.accounts[0]});
