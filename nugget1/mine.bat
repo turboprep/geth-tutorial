@@ -1,1 +1,1 @@
-geth --mine --datadir data --networkid 123 --nodiscover --maxpeers 0 --verbosity 4 console
+geth --mine --datadir data --networkid 123 --nodiscover --maxpeers 0 --verbosity 6 console
