@@ -1,0 +1,1 @@
+geth --datadir data --networkid 123 --nodiscover --maxpeers 0 --rpc --rpccorsdomain "*"  console
